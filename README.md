@@ -25,10 +25,10 @@ This will make your CPU very hot, so it is recommended to use good thermal paste
 # Benchmark from CHINEBENCH R15
 
 1.   Before Unlocked Power Limit
-     ![text](/bencmarks/Locked_Power_Limit.png)
+     ![text](/benchmarks/Locked_Power_Limit.png)
 
 2.   After Unlocked Power Limit
-     ![text](/bencmarks/Unlocked_Power_Limit.png)
+     ![text](/benchmarks/Unlocked_Power_Limit.png)
 
 3.   Unlocked Power Limit with Undervolt CPU Core + CPU Cache to -80
-     ![text](/bencmarks/Unlocked_Power_Limit+Undervolt_-80.png)
+     ![text](/benchmarks/Unlocked_Power_Limit+Undervolt_-80.png)
