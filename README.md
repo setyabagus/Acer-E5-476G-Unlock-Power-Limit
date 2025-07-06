@@ -31,4 +31,4 @@ This will make your CPU very hot, so it is recommended to use good thermal paste
      ![text](/benchmarks/Unlocked_Power_Limit.png)
 
 3.   Unlocked Power Limit with Undervolt CPU Core + CPU Cache to -80
-     ![text](/benchmarks/Unlocked_Power_Limit+Undervolt_-80.png)
+     ![text](/benchmarks/Unlocked_Power_Limit+Undervolt-80.png)
