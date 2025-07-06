@@ -1,8 +1,8 @@
-# Acer-E5-476G-Unlock-Power-Limit
-This tutorial is useful for anyone who uses an Acer E5-476G or another laptops and wants to unlock the power limit to get maximum performance.
+# Unlocks Power Limit  ACER InsydeH20 BIOS
+This tutorial is made for those of you who want to unlock laptop power limit from hidden BIOS settings. By default some ACER laptops using InsydeH20 BIOS have hidden BIOS settings, you can access whatever you want in the bios.
 
 # "Do With Your Own Risk"
-This will make your CPU very hot, so it is recommended to use good thermal paste and clean your laptop's air circulation first.
+This will make your CPU very hot, so it is recommended to use good thermal paste and clean your laptops air circulation first.
 
 1. Enter to unlocked bios by pressing fn+tab then release then press f12 before the screen turns on. (If success, you can see double advanced tabs)
 2. Go to the advanced tab, choose one that has many options.
